@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Remote Python Developer Jobs in the UK by Maestra (updated 2025-08-30)
 
-> This is a curated compilation of **25 Remote Python Developer Jobs in the UK** roles gathered over the last **1d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
+> This is a curated compilation of **26 Remote Python Developer Jobs in the UK** roles gathered over the last **1d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
 
 ---
 
@@ -53,6 +53,7 @@
 | 8thlightrebuild | Lead Software Engineer (Remote) | Remote | [Apply](https://job-boards.greenhouse.io/8thlightrebuild/jobs/6783949003?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | 8thlightrebuild | Lead Software Engineer (Remote) | City of Westminster, England | [Apply](https://job-boards.greenhouse.io/8thlightrebuild/jobs/6783993003?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Greeneking | Applications Developer | East Staffordshire, England | [Apply](https://jobs.smartrecruiters.com/GreeneKing/744000079007126?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
+| Parentpaygroup | Software Developer | Remote | [Apply](https://parentpaygroup.pinpointhq.com/en/postings/ef845337-85e0-4219-96e6-3351ff8ed62c?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Doxy.me | Senior Software Engineer | City of Westminster, England | [Apply](https://jobs.ashbyhq.com/doxy.me/4191c09c-06c6-4228-af88-8d77b8bc4ed9?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 
 [Back to top](#top)
